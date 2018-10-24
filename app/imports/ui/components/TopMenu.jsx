@@ -13,7 +13,7 @@ export default class TopMenu extends React.Component {
                 </a>
               </Menu.Item>
               <Menu.Item>
-                <Dropdown text='Games'>
+                <Dropdown text='GAMES'>
                   <Dropdown.Menu>
                     <Dropdown.Item>All Games</Dropdown.Item>
                     <Dropdown.Item>Halo Infinite</Dropdown.Item>
@@ -21,6 +21,18 @@ export default class TopMenu extends React.Component {
                     <Dropdown.Item>Halo: Wars 2</Dropdown.Item>
                     <Dropdown.Item>Halo 5: Forge</Dropdown.Item>
                     <Dropdown.Item>Halo 5: Guardians</Dropdown.Item>
+                    <Dropdown.Item>Halo: Spartan Strike</Dropdown.Item>
+                    <Dropdown.Item>Halo: The Master Chief Collection</Dropdown.Item>
+                    <Dropdown.Item>Halo: Spartan Assault</Dropdown.Item>
+                    <Dropdown.Item>Halo: 4</Dropdown.Item>
+                    <Dropdown.Item>Halo Combat Evolved Anniversary</Dropdown.Item>
+                    <Dropdown.Item>Halo Reach</Dropdown.Item>
+                    <Dropdown.Item>Halo Wars</Dropdown.Item>
+                    <Dropdown.Item>Halo 3: ODST</Dropdown.Item>
+                    <Dropdown.Item>Halo 3</Dropdown.Item>
+                    <Dropdown.Item>Halo 2</Dropdown.Item>
+                    <Dropdown.Item>Halo Combat evolved</Dropdown.Item>
+                    <Dropdown.Item>All Games</Dropdown.Item>
                   </Dropdown.Menu>
                 </Dropdown>
               </Menu.Item>
